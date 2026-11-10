@@ -58,6 +58,10 @@ Fintech/
 └── README.md
 ```
 
+
+
+
+
 ## Data Pipeline
 
 The project follows a straightforward analytical workflow:
@@ -119,6 +123,10 @@ Key metrics and visuals:
 - Daily transaction activity
 - Hourly transaction activity by payment type
 
+<p align="center">
+  <img src="Powerbi/Dashboard/Overview.png" width="800" alt="Transaction Overview Dashboard">
+</p>
+
 ### 2. Payment Behaviour
 
 Examines transaction-value patterns across payment methods and time periods.
@@ -131,6 +139,9 @@ Key metrics and visuals:
 - Average transaction value by amount band
 - Daily transaction activity
 - Hourly transaction trends by payment type
+<p align="center">
+  <img src="Powerbi/Dashboard/Payment-Behaviour.png" width="800" alt="Payment-Behaviour">
+</p>
 
 ### 3. Account Intelligence
 
@@ -144,6 +155,10 @@ Key metrics and visuals:
 - Top receiving accounts by transaction value
 - Sender accounts by transaction frequency
 - Customer versus merchant transaction volume
+
+<p align="center">
+  <img src="Powerbi/Dashboard/Account%20Intelligence.png" width="800" alt="Account Intelligence Dashboard">
+</p>
 
 ## Key Findings
 
